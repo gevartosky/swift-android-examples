@@ -99,8 +99,8 @@ def swiftRuntimeLibs = [
     "swiftSynchronization"
 ]
 
-def sdkName = "swift-DEVELOPMENT-SNAPSHOT-2025-12-17-a_android.artifactbundle"
-def swiftVersion = "main-snapshot-2025-12-17"
+def sdkName = "swift-DEVELOPMENT-SNAPSHOT-2026-01-07-a_android.artifactbundle"
+def swiftVersion = "main-snapshot-2026-01-07"
 def minSdk = android.defaultConfig.minSdkVersion.apiLevel
 /**
  * Android ABIs and their Swift triple mappings
